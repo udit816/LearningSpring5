@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Udit.Pathak
+Build-Jdk: 10.0.1
+Implementation-Title: spring5webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: guru.springframework
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring5webapp
+Created-By: Maven Integration for Eclipse
+
